@@ -4,7 +4,7 @@ import App from './App.jsx'
 import ScrollToTop from './components/ScrollToTop.jsx';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {  } from "./dist/css/main.css";
+import {  } from "./data/main.css";
 import 'animate.css';
 
 import AOS from 'aos';
